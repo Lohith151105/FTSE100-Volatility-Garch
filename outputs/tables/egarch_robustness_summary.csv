@@ -1,0 +1,6 @@
+Specification,Evaluation proxy,Observations,Mean QLIKE,MSE reduction vs EWMA (%)
+"Baseline: expanding, Student-t",Squared return,2188,0.5757603316660289,6.330123438770352
+Exclude 2020 from evaluation,Squared return,1934,0.414968225050839,5.230374331551113
+Normal innovations,Squared return,2188,0.5734006471514513,5.984498732908006
+Rolling 1260 observations,Squared return,2188,0.5823249593491511,4.135419110420379
+Parkinson evaluation proxy,Parkinson,2188,0.3946045682206022,30.58603902855692
